@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am currently exploring the field of data science, machine learning and artificial intelligence.
 
 <!--
 **JisasPatel/JisasPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 [![JisasPatel's GitHub | Stats](https://stats.quine.sh/JisasPatel/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JisasPatel)
 
 [![JisasPatel's GitHub | Languages Over Time](https://stats.quine.sh/JisasPatel/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=JisasPatel)
